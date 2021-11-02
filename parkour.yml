@@ -1,0 +1,35 @@
+Parkour:
+ Start:
+  Hologram: 'Start Parkour'
+  Location: 'world!1!1!1'
+ Finish:
+  Hologram: 'End Parkour'
+  Location: 'world!1!1!1'
+ Checkpoint:
+   1:
+    Hologram: 'Checkpoint 1'
+    Location: 'world!1!1!1!1!1'
+   2:
+    Hologram: 'Checkpoint 2'
+    Location: 'world!1!1!1!1!1'
+   3:
+    Hologram: 'Checkpoint 3'
+    Location: 'world!1!1!1!1!1'
+   4:
+    Hologram: 'Checkpoint 1'
+    Location: 'world!1!1!1!1!1'
+   5:
+    Hologram: 'Checkpoint 2'
+    Location: 'world!1!1!1!1!1'
+   6:
+    Hologram: 'Checkpoint 3'
+    Location: 'world!1!1!1!1!1'
+   7:
+    Hologram: 'Checkpoint 1'
+    Location: 'world!1!1!1!1!1'
+   8:
+    Hologram: 'Checkpoint 2'
+    Location: 'world!1!1!1!1!1'
+   9:
+    Hologram: 'Checkpoint 3'
+    Location: 'world!1!1!1!1!1'

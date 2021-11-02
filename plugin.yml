@@ -1,0 +1,19 @@
+main: net.galaxacraft.swcore.Core
+name: SWCore
+version: 1.0
+author: [Hari K]
+commands:
+  spawn:
+    description: Teleport to spawn!
+
+  setspawn:
+    description: Set spawn location.
+
+  booster:
+    description: See your boosters!
+
+  eco:
+    description: Set your coin/soul amount!
+    
+  parkour:
+    description: Parkour commands

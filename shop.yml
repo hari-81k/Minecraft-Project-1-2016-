@@ -1,0 +1,38 @@
+ShopItem:
+  InventorySlot: 1
+  ItemID: 388
+  Name: '&aShop &7(Right Click)'
+  Lore: '&7Coins: &6%coins%'
+
+MainMenu:
+  Rows: 1
+  Contents:
+    1:
+      ItemID: 95
+      Inventory: CageShop
+      Name: '&aCustom Cages'
+      Lore:
+      - '&7Coins: &6%coins%'
+
+CageShop:
+  Rows: 1
+  Lore: '&7Set the %cagename% as your Custom Cell. This change is cosmetic, but makes you look awesome!'
+  Contents:
+    1:
+      ItemID: 95:15
+      Name: 'Black Cage'
+      Cost: 100
+      Permissions:
+        notFound: swcore.found.blackcage
+        notUnlocked: swcore.unlocked.blackcage
+      NotUnlocked: '&7Cost: &6%cost%'
+      NotFound:
+        - '&7Rarity: &6LEGENDARY'
+        - '&2Found in soul well'
+    2:
+      ItemID: 95:1
+      Name: 'Orange Cage'
+      Cost: 1500
+      Permissions:
+      - swcore.unlocked.blackcage
+      NotUnlocked: '&7Cost: &6%cost%'

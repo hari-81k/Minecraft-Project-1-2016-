@@ -1,0 +1,9 @@
+scoreboard-title: '&lSKYWARS'
+
+scoreboard-lines:
+- '%emptyline%'
+- 'Solo Kills: &a%solokills%'
+- 'Solo Wins: &a%solowins%'
+- '%emptyline%'
+- 'Coins: &a%coins%'
+- 'Souls: &b%souls%/&7%maxSouls%'
